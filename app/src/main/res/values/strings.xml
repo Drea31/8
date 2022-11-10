@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">8</string>
+    <string name="b">Личный Кабинет</string>
+    <string name="a">Текущие заказы</string>
+    <string name="q">Личный счёт</string>
+    <string name="w">Личные данные</string>
+    <string name="e">История заказов</string>
+    <string name="r">Профиль заказов</string>
+    <string name="t">Корзина</string>
+    <string name="y">Подписки</string>
+    <string name="z">Контакты</string>
+    <string name="x">Нет подписок</string>
+
+
+</resources>
